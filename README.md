@@ -1,4 +1,5 @@
 📲 SPAM DE MENSAGENS PARA WHATSAPP
+
 Este projeto automatiza o envio de mensagens em sequência no WhatsApp Web usando Python e a biblioteca pyautogui. O script simula interações do usuário, como digitação e movimentos do mouse, para acessar o WhatsApp Web, localizar um contato específico e enviar mensagens em massa. É uma ferramenta útil para automatizar tarefas repetitivas e otimizar processos.
 
 🚀 Funcionalidades
